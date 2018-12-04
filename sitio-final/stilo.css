@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cta {
+	background-image: url(imagenes/cta.jpg);
+	background-position: right center;
+	background-size: cover;
+}
+
+.btn {
+	
+	border-radius: 1.5em;
+	
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+font-family: 'Heebo', sans-serif;
+color: dodgerblue;
+}
+
+#lqh {
+	background-image: url(imagenes/MalaVista-Prospectos-04.png);
+	background-position: right center;
+	background-size: cover;
+}
+
+
+#qs {
+	background-image: url(imagenes/empleado-del-mes-04.png);
+	background-position: right center;
+	background-size: cover;
+}
+
+.cnt
+	h2{
+	font-size: 2.5em;
+	font-family: 'Just Another Hand', cursive;
+    line-height: 1.1;
+	
+}
+.footer{
+	padding: 5em 0;
+    background-color: #FFFFFF;
+    color: dimgrey;
+}
+#upbtn {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #428BCA;
+    border-color: #428BCA;
+}
